@@ -28,3 +28,8 @@ body {
     justify-content: center;
     align-items: center;
   }
+
+iframe {
+    height: 300px;
+    width: 100%;
+  }
